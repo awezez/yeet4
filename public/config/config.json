@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcCd9F71D42950b9c5A76e5b8a2cF2Ca4f6661242",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xccd9f71d42950b9c5a76e5b8a2cf2ca4f6661242",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "rinkeby",
+    "ID": 4
+  },
+  "NFT_NAME": "Test",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 69,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
